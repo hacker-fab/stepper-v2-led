@@ -59,11 +59,18 @@ link a pr
 
 I can't access the [officially linked gerber file](https://drive.google.com/drive/u/1/folders/1DK4DBdWB0b6NKSaRz9XtcY19dkCHzusb)
 
+FIXME: some files look somewhat identical but not vs the timestamps?
 
-| Artifact | Drive name | LEDs |
-| ----------------------------- | ---------------------------------- | --- |
-| dlpdlcr471tpevm-led-4_v1.zip  | UV_LED_v2.zip                      | 4   |
-| dlpdlcr471tpevm-led-6_v1.zip  | Project Outputs for UV_LED.zip     | 6   |
-| dlpdlcr471tpevm-led-6_v2.zip  | Project Outputs for UV_LED (2).zip | 6   |
-| dlpdlcr471tpevm-led-6_v3.zip  | Project Outputs for UV_LED         | 6   |
+Looks like started with 6 LED design and then moved to 4 LED
+
+| Artifact                      | Drive name                         | LEDs | Notes                                |
+| ----------------------------- | ---------------------------------- | ---  | ------------------------------------ |
+| dlpdlcr471tpevm-led_v1.zip    | Project Outputs for UV_LED.zip     | 6    | "1:49:43 AM On 6/20/2023"            |
+| dlpdlcr471tpevm-led_v2.zip    | Project Outputs for UV_LED (2).zip<br>(Project Outputs for UV_LED/)         | 6    | "2:43:13 PM On 6/20/2023"<br>Rounds / enlarges traces            |
+| dlpdlcr471tpevm-led_v3.zip    | UV_LED_v2.zip                      | 4    | "6:19:09 PM On 10/3/2023"<br>"Official" file in the instructions? |
+
+Note these two were nearly identical:
+* "Project Outputs for UV_LED/": lf line endings. Deleted since redundant + inconsistent
+* "Project Outputs for UV_LED (2).zip": cr/lf line endings
+* Most have cr/lf line endings
 

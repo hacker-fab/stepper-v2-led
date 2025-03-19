@@ -1,6 +1,8 @@
 # stepper-v2-led
 Hacker Fab V2 Stepper UV LED PCB
 
+UV LED module for the [Stepper V2](https://docs.hackerfab.org/home/fab-toolkit/patterning/lithography-stepper-v2-build-work-in-progress#bill-of-materials)
+
 Files imported from [Google drive](https://drive.google.com/drive/u/1/folders/1X3nmuruO58prPQBm8DrWUhfM-LNq0qWm)
 
 Supported projectors:
@@ -40,6 +42,28 @@ Notes:
 * Connectors mate with [Molex 0874391000](https://www.digikey.com/en/products/detail/molex/0874391000/561773)
   * Pins: suggest [Molex 874210000](https://www.digikey.com/en/products/detail/molex/0874210000/2037270)
 
+TODO:
+* Organize outputs / "history"
+  * Which are 4 vs 6 LED designs?
+* Create gerber release files
+* Port existing files to KiCAD?
+* Add images to docs
+* DLP4710EVM-LC
+  * Measure voltage on existing blue LEDs
+    * Are these driven with lower voltage?
+  * Make new PCB
+  * Clean BOM instructions (connector / LEDs)
+link a pr
 # History
 
-FIXME. What is the 4 vs 6 LED history?
+
+I can't access the [officially linked gerber file](https://drive.google.com/drive/u/1/folders/1DK4DBdWB0b6NKSaRz9XtcY19dkCHzusb)
+
+
+| Artifact | Drive name | LEDs |
+| ----------------------------- | ---------------------------------- | --- |
+| dlpdlcr471tpevm-led-4_v1.zip  | UV_LED_v2.zip                      | 4   |
+| dlpdlcr471tpevm-led-6_v1.zip  | Project Outputs for UV_LED.zip     | 6   |
+| dlpdlcr471tpevm-led-6_v2.zip  | Project Outputs for UV_LED (2).zip | 6   |
+| dlpdlcr471tpevm-led-6_v3.zip  | Project Outputs for UV_LED         | 6   |
+

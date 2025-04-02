@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "MolexConnector")(type "KiCad")(uri "${KIPRJMOD}/LEDBoardLibrary/2025-03-31_21-50-49.kicad_sym")(options "")(descr ""))
+)

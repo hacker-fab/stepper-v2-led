@@ -1,0 +1,5 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "LEDBoardLibrary")(type "KiCad")(uri "${KIPRJMOD}/LEDBoardLibrary.pretty")(options "")(descr ""))
+  (lib (name "LEDBoardFootprintLibrary")(type "KiCad")(uri "C:/Users/Junas/Documents/KiCad/9.0/footprints")(options "")(descr ""))
+)

@@ -3728,6 +3728,36 @@
 		)
 		(uuid "f8cec4eb-9734-4702-a3b0-cac60c31bed6")
 	)
+	(label "LED1+"
+		(at 156.21 116.84 90)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "3d55c9ce-566b-4c27-add7-cc4b34247f0f")
+	)
+	(label "LED-"
+		(at 133.35 71.12 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "cd0ea9bf-c401-41e7-8ca4-d2e14fa7bdac")
+	)
+	(label "LED2+"
+		(at 152.4 100.33 90)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "f7993842-d3d0-4f2d-ab9d-0e8e3779e26f")
+	)
 	(symbol
 		(lib_id "Mechanical:MountingHole")
 		(at 109.22 102.87 0)

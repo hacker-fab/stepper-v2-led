@@ -3786,7 +3786,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "LaughingsSynthFootprints:0dot093_inch_mechanical_hole"
+		(property "Footprint" "LEDBoardLibrary:0dot093_inch_mechanical_hole"
 			(at 109.22 102.87 0)
 			(effects
 				(font
@@ -3850,7 +3850,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "LaughingsSynthFootprints:0dot093_inch_mechanical_hole"
+		(property "Footprint" "LEDBoardLibrary:0dot093_inch_mechanical_hole"
 			(at 109.22 96.52 0)
 			(effects
 				(font
@@ -4194,7 +4194,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "LaughingsSynthFootprints:0dot060_inch_mechanical_hole"
+		(property "Footprint" "LEDBoardLibrary:0dot060_inch_mechanical_hole"
 			(at 88.9 96.52 0)
 			(effects
 				(font
@@ -4258,7 +4258,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "LaughingsSynthFootprints:0dot060_inch_mechanical_hole"
+		(property "Footprint" "LEDBoardLibrary:0dot060_inch_mechanical_hole"
 			(at 88.9 102.87 0)
 			(effects
 				(font

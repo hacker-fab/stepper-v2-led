@@ -74,7 +74,7 @@
 			(mirror no)
 			(drillshape 0)
 			(scaleselection 1)
-			(outputdirectory "dlp4710evm-lc-via")
+			(outputdirectory "dlp4710evm-lc-via_v1")
 		)
 	)
 	(net 0 "")
@@ -1907,54 +1907,6 @@
 	)
 	(gr_poly
 		(pts
-			(xy 148.351581 95.870199) (xy 148.351581 96.705859) (xy 145.712521 96.705859) (xy 145.712521 95.870199)
-		)
-		(stroke
-			(width 0.1)
-			(type solid)
-		)
-		(fill yes)
-		(layer "F.Mask")
-		(uuid "0be97359-03c5-497b-b649-acad1deca3e3")
-	)
-	(gr_poly
-		(pts
-			(xy 149.154221 95.870199) (xy 152.710221 95.870199) (xy 152.710221 96.708399) (xy 149.154221 96.708399)
-		)
-		(stroke
-			(width 0.1)
-			(type solid)
-		)
-		(fill yes)
-		(layer "F.Mask")
-		(uuid "1af0cef8-411a-4384-a51b-d66e1b626bc3")
-	)
-	(gr_poly
-		(pts
-			(xy 148.354121 94.371599) (xy 148.354121 95.207259) (xy 145.715061 95.207259) (xy 145.715061 94.371599)
-		)
-		(stroke
-			(width 0.1)
-			(type solid)
-		)
-		(fill yes)
-		(layer "F.Mask")
-		(uuid "2898880b-d433-4995-a473-6cef21940e0e")
-	)
-	(gr_poly
-		(pts
-			(xy 149.151681 89.873259) (xy 152.707681 89.873259) (xy 152.707681 90.711459) (xy 149.151681 90.711459)
-		)
-		(stroke
-			(width 0.1)
-			(type solid)
-		)
-		(fill yes)
-		(layer "F.Mask")
-		(uuid "3491ed10-2781-44d5-a051-bc29358a13a2")
-	)
-	(gr_poly
-		(pts
 			(xy 134.145361 97.485639) (xy 134.795601 97.485639) (xy 134.795601 99.085839) (xy 134.145361 99.085839)
 		)
 		(stroke
@@ -1964,42 +1916,6 @@
 		(fill yes)
 		(layer "F.Mask")
 		(uuid "3721ff39-0f81-42d5-a00b-17fac52e4d65")
-	)
-	(gr_poly
-		(pts
-			(xy 149.156761 94.371599) (xy 152.712761 94.371599) (xy 152.712761 95.209799) (xy 149.156761 95.209799)
-		)
-		(stroke
-			(width 0.1)
-			(type solid)
-		)
-		(fill yes)
-		(layer "F.Mask")
-		(uuid "4d6beadc-e77e-4cf7-a832-fafcb22f0d45")
-	)
-	(gr_poly
-		(pts
-			(xy 149.154221 91.371859) (xy 152.710221 91.371859) (xy 152.710221 92.210059) (xy 149.154221 92.210059)
-		)
-		(stroke
-			(width 0.1)
-			(type solid)
-		)
-		(fill yes)
-		(layer "F.Mask")
-		(uuid "52116b18-162c-4b9f-828f-44d841d214db")
-	)
-	(gr_poly
-		(pts
-			(xy 148.349041 89.873259) (xy 148.349041 90.708919) (xy 145.709981 90.708919) (xy 145.709981 89.873259)
-		)
-		(stroke
-			(width 0.1)
-			(type solid)
-		)
-		(fill yes)
-		(layer "F.Mask")
-		(uuid "59574cbb-e75f-4594-ad7b-f52de1e24dd3")
 	)
 	(gr_poly
 		(pts
@@ -2015,30 +1931,6 @@
 	)
 	(gr_poly
 		(pts
-			(xy 148.354121 92.875539) (xy 148.354121 93.711199) (xy 145.715061 93.711199) (xy 145.715061 92.875539)
-		)
-		(stroke
-			(width 0.1)
-			(type solid)
-		)
-		(fill yes)
-		(layer "F.Mask")
-		(uuid "94ee7ddb-684a-41ea-ab1f-c6b9d1095f22")
-	)
-	(gr_poly
-		(pts
-			(xy 148.351581 91.371859) (xy 148.351581 92.207519) (xy 145.712521 92.207519) (xy 145.712521 91.371859)
-		)
-		(stroke
-			(width 0.1)
-			(type solid)
-		)
-		(fill yes)
-		(layer "F.Mask")
-		(uuid "c26658f7-2ddb-4264-8b78-bb7d638b99b0")
-	)
-	(gr_poly
-		(pts
 			(xy 134.137741 95.227579) (xy 134.787981 95.227579) (xy 134.787981 96.827779) (xy 134.137741 96.827779)
 		)
 		(stroke
@@ -2048,18 +1940,6 @@
 		(fill yes)
 		(layer "F.Mask")
 		(uuid "c5746ef9-bda1-4eb6-8486-987862099231")
-	)
-	(gr_poly
-		(pts
-			(xy 149.156761 92.875539) (xy 152.712761 92.875539) (xy 152.712761 93.713739) (xy 149.156761 93.713739)
-		)
-		(stroke
-			(width 0.1)
-			(type solid)
-		)
-		(fill yes)
-		(layer "F.Mask")
-		(uuid "d5989ad8-d63a-4664-82a3-ec40808ccaed")
 	)
 	(gr_poly
 		(pts
